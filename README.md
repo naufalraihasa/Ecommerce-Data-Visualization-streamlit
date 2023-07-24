@@ -6,7 +6,8 @@ Dalam dashboard ini, dibuat visualisasi data yang menarik. Visualisasi ini akan 
 
 Tujuan dari projek ini adalah untuk memberikan dashboard yang interaktif dan informatif dalam mempelajari dan menggali informasi dari dataset E-Commerce Public Dataset.
 
-\## 🔗 Application Links
+
+# 🔗 Application Links
 [![](https://www.flaticon.com/free-icon/link_455691?term=link&page=1&position=1&origin=tag&related_id=455691)](https://katherineoelsner.com/)
 
 https://ecommerce-data-analysis.streamlit.app/
