@@ -9,5 +9,4 @@ Tujuan dari projek ini adalah untuk memberikan dashboard yang interaktif dan inf
 
 # 🔗 Application Links
 [![](https://www.flaticon.com/free-icon/link_455691?term=link&page=1&position=1&origin=tag&related_id=455691)](https://katherineoelsner.com/)
-
 https://ecommerce-data-analysis.streamlit.app/
