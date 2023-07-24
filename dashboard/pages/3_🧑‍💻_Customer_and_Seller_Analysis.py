@@ -21,7 +21,9 @@ with st.sidebar:
     )
 
 
-all_df = pd.read_csv("../all_data.csv")
+path = os.path.dirname(__file__)
+my_file = path+'/../all_data.csv'
+all_df = pd.read_csv(my_file)
 datetime_columns = ["order_approved_at", "order_delivered_customer_date"]
 all_df.sort_values(by="order_approved_at", inplace=True)
 all_df.reset_index(inplace=True)
