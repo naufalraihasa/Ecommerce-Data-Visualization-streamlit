@@ -17,7 +17,7 @@ with st.sidebar:
 
 if selected == "About Projects":
 
-    image = Image.open('images/img1.jpg')
+    image = Image.open('dashboard\images\img1.jpg')
     resized_image = image.resize((650, 350))
     st.image(resized_image, caption='E-Comerce Analysis Dashboard')
 
